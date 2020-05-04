@@ -49,3 +49,9 @@ experimental/
 
 # VSCode
 .vscode/
+
+# Expo
+.expo/
+
+# Typescript
+dist/
